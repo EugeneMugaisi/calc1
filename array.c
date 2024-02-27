@@ -1,3 +1,6 @@
+//Mugaisi Eugene Muruli
+//ENE212-0083/2020
+
 #include <stdio.h>
 
 int main() {
